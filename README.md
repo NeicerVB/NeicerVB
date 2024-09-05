@@ -1,16 +1,20 @@
-## Hi there 👋
+# Descripción Personal
 
-<!--
-**NeicerVB/NeicerVB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nombre:** Neicer Vásquez  
+**Edad:** 19 años  
 
-Here are some ideas to get you started:
+Soy un entusiasta por la tecnología, la programación, el análisis de datos y el aprendizaje automático. Mi pasión por aprender nuevas tecnologías me ha llevado a desarrollar un enfoque autodidacta, permitiéndome crecer y mejorar continuamente mis habilidades. Actualmente, estoy estudiando en la plataforma de educación en línea **Platzi**, donde continúo perfeccionando mis conocimientos y adquiriendo nuevas competencias en el área tecnológica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tecnologías
+
+Mi lenguaje de programación principal es **Python**, el cual uso actualmente para una variedad de proyectos. Me apasiona aprender constantemente sobre este lenguaje y sus múltiples aplicaciones en diversas áreas. Dentro de las herramientas y librerías de Python que más utilizo y estudio se encuentran:
+
+- **Numpy**
+- **Pandas**
+- **Seaborn**
+- **Matplotlib**
+- **Scikit-Learn**
+- **Keras**
+- **Tensorflow**
+
+Estas tecnologías me permiten abordar problemas complejos y desarrollar soluciones innovadoras, principalmente en el campo del análisis de datos y el aprendizaje automático.
