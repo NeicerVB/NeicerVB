@@ -6,9 +6,13 @@
 Soy un __entusiasta de la tecnología y la programación__, me apasiona crear proyectos con __Python__ para automatizar procesos, analizar datos y desarrollar modelos de machine learning. Me considero una persona muy __curiosa y autodidacta__ que siempre busca aprender y dejarse maravillar por los avances tecnológicos.
 
 ## 🎓 Formación
-- **Estudiante autodidacta** - Platzi - 2023-Actualidad
-  - Ruta de Análisis y Manipulación de Datos con Python ✅
-  - Ruta de Entorno de Trabajo para Data e IA ✅
+- **Estudiante autodidacta en Platzi**: 2023-Actualidad
+  - [Ruta de Entorno de Trabajo para Data e IA](https://platzi.com/ruta/datos-fundamentos-tecnicos/) ✅
+  - [Ruta de Análisis y Manipulación de Datos con Python](https://platzi.com/ruta/analisis-datos-python/?school=_escuela_datos_) ✅
+  - [Ruta de Data Scientist en Python](https://platzi.com/ruta/data-scientist-python/?school=_escuela_datos_) ✅
+
+  ### 🏆 Certificados digitales
+  [Mis certificados](https://platzi.com/p/NeicerVB/) ✅
 
 ## 💼 Competencias profesionales
 
